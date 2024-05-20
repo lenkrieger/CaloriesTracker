@@ -1,0 +1,14 @@
+D:\Programming Projects\Calorie calculator\Calorie calculator\bin\Debug\net8.0\Calorie calculator.exe
+D:\Programming Projects\Calorie calculator\Calorie calculator\bin\Debug\net8.0\Calorie calculator.deps.json
+D:\Programming Projects\Calorie calculator\Calorie calculator\bin\Debug\net8.0\Calorie calculator.runtimeconfig.json
+D:\Programming Projects\Calorie calculator\Calorie calculator\bin\Debug\net8.0\Calorie calculator.dll
+D:\Programming Projects\Calorie calculator\Calorie calculator\bin\Debug\net8.0\Calorie calculator.pdb
+D:\Programming Projects\Calorie calculator\Calorie calculator\obj\Debug\net8.0\Calorie calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\Calorie calculator\Calorie calculator\obj\Debug\net8.0\Calorie calculator.AssemblyInfoInputs.cache
+D:\Programming Projects\Calorie calculator\Calorie calculator\obj\Debug\net8.0\Calorie calculator.AssemblyInfo.cs
+D:\Programming Projects\Calorie calculator\Calorie calculator\obj\Debug\net8.0\Calorie calculator.csproj.CoreCompileInputs.cache
+D:\Programming Projects\Calorie calculator\Calorie calculator\obj\Debug\net8.0\Calorie calculator.dll
+D:\Programming Projects\Calorie calculator\Calorie calculator\obj\Debug\net8.0\refint\Calorie calculator.dll
+D:\Programming Projects\Calorie calculator\Calorie calculator\obj\Debug\net8.0\Calorie calculator.pdb
+D:\Programming Projects\Calorie calculator\Calorie calculator\obj\Debug\net8.0\Calorie calculator.genruntimeconfig.cache
+D:\Programming Projects\Calorie calculator\Calorie calculator\obj\Debug\net8.0\ref\Calorie calculator.dll
